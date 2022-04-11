@@ -61,5 +61,7 @@
   #After this you can write !buildozer init and spec file is come.You have to change your package domain.And not necessasry but change title and the package.name
   
   #If you are signing aab file you have to change p4a.branch = develop and android.release.artifact = aab
+#Finally:
+!buildozer -v android release or !buildozer -v android debug(I recommend the first)
   
   # If you have a question you can write me on discord: MrAaz#8693
