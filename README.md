@@ -65,7 +65,7 @@
 	
 > And after this you can check with !export and see your keystore things
   
-> When you are signing it will ask some question like where are u from you can just past them (enter).execpt password you have to write it.Write your password 2.½env and 3.%env.
+> When you are signing it will ask some question like where are u from you can just past them (enter).execpt password you have to write it.Write your password 2.%env and 3.%env.
 
   
 > After this you can write !buildozer init and spec file is come.You have to change your package domain.And not necessasry but change title and the package.name
@@ -74,4 +74,4 @@
 > Finally:
 !buildozer -v android release or !buildozer -v android debug(I recommend the first)
   
-> If you have a question you can write me on discord: MrAaz#8693
+> If you have a question you can write me on discord: MrAaz#0359
