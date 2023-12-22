@@ -74,4 +74,4 @@
 > Finally:
 !buildozer -v android release or !buildozer -v android debug(I recommend the first)
   
-> If you have a question you can write me on discord: MrAaz#0359
+> If you have a question you can write me on discord: MrAaz#0359 or with the update mraaz
